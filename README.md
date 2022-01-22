@@ -1,5 +1,5 @@
 # Logar
-Unity 2.5D Mobile Game
+2.5D Shoot 'Em Up Mobile Game
 
 Logar is 2.5D Mobile Game. Aim of the game is making highest score. With score increases, levels changing. Currently, there is 15 level, and with every level change number and speed of the asteroids change.
 
@@ -11,7 +11,9 @@ Shoot 'Em Up
 
 Space- Galaxies
 
-##### Link of the game
+#### Link of the game
+
+##### PLAY STORE
 
 https://play.google.com/store/apps/details?id=com.BlackwarehouseGames.Lgar&hl=tr&gl=US
 
