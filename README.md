@@ -18,7 +18,7 @@ Space- Galaxies
 https://play.google.com/store/apps/details?id=com.BlackwarehouseGames.Lgar&hl=tr&gl=US
 
 
-### ScreenShots of Logar
+### Pictures of Logar
 ![Main Menu](https://user-images.githubusercontent.com/97740231/150646298-7d799c2d-7221-408c-ae4a-4e593287255e.png)
 ![Play Scene](https://user-images.githubusercontent.com/97740231/150646299-3fa698fd-81c1-417a-99f8-04094fdc1dc8.png)
 ![Game Over](https://user-images.githubusercontent.com/97740231/150646295-0dfb72b2-217d-41cf-9bc1-fc1bf60e6d67.png)
