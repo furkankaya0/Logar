@@ -18,11 +18,11 @@ public class ShootTheBullet : MonoBehaviour
 
     void Update()
     {
-        if(use.usen == true && Time.time > nextFire)
+        if(JoystickButton.usen == true && Time.time > nextFire)
          {
             nextFire = Time.time + fireRate;
             Instantiate(bullet, shotSpawn.position,shotSpawn.rotation); // Showing Example.
-            use.usen = false;
+            JoystickButton.usen = false;
             LaserSound.Play();
          }
     }
